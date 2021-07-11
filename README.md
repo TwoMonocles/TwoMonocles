@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm @TwoMonocles
-I'm a Scrum Master and former full stack and mobile application developer.
+I'm a Scrum Master and former full stack desktop, web, and mobile application developer.
 
 - 🌱 In the spirit of Pablo Picasso, "I am always doing that which I cannot, in order that I may learn how to do it." 
-Right now that's machine learning, algorithmic trading, and data analytics, with Python at the forefront of my toolset.
+Right now that's machine learning, algorithmic trading, and data analytics, with Python at the forefront of my toolset. I've spent the most time working with Java, starting with v1.1 in the early 00's.
 
 ### Connect With Me
 
