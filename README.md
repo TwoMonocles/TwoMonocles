@@ -1,4 +1,4 @@
-![](https://github.com/TwoMonocles/TwoMonocles/blob/main/github_banner_1280x640.jpg)
+![](https://github.com/TwoMonocles/TwoMonocles/blob/main/github_banner_1280x454.jpg)
 
 ## 👋 Hi, I'm @TwoMonocles
 I'm a full-time Scrum Master and former full-stack developer. Now more of a weekend warrior.
