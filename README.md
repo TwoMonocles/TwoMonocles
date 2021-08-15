@@ -13,6 +13,7 @@ I'm a full-time Scrum Master and former full-stack developer and product manager
 
 ### Recent Blog Posts
 - :chart_with_upwards_trend: [Automated Stock Alerts with Google Sheets](https://www.shaun-taylor.com/blog/automated-stock-alerts-with-google-sheets.html)
+- :christmas_tree: [Christmas Games with Scratch and a Makey Makey](https://www.shaun-taylor.com/blog/christmas-games-with-scratch-and-a-makey-makey.html)
 
 ### Connect With Me 
 
