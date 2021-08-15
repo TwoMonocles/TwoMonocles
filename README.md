@@ -4,6 +4,7 @@
 I'm a full-time Scrum Master and former full-stack developer and product manager.
 
 - 🌱 "I am always doing that which I cannot, in order that I may learn how to do it." Right now that's machine learning, algorithmic trading, and investment analytics.
+- :man: Father of two wonderful kids :boy: :girl:
 - I'm an avid hobbyist: :mountain_bicyclist:, :evergreen_tree:, :camera:, :gun:, :tennis:, :snowboarder:, :swimmer:, :space_invader:, :beer:, :rowboat: 
 
 ### Connect With Me 
