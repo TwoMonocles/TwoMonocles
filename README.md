@@ -8,7 +8,11 @@ I'm a full-time Scrum Master and former full-stack developer and product manager
 - I'm an avid hobbyist: :mountain_bicyclist:, :evergreen_tree:, :camera:, :gun:, :tennis:, :snowboarder:, :swimmer:, :space_invader:, :beer:, :rowboat: 
 
 ### Usually Working In 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+### Recent Blog Posts
+- :chart_with_upwards_trend: [Automated Stock Alerts with Google Sheets](https://www.shaun-taylor.com/blog/automated-stock-alerts-with-google-sheets.html)
 
 ### Connect With Me 
 
