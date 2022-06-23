@@ -5,11 +5,11 @@ I'm a full-time Scrum Master and former full-stack developer and product manager
 
 - 🌱 "I am always doing that which I cannot, in order that I may learn how to do it." Right now that's machine learning, algorithmic trading, and investment analytics.
 - :man: Father of two wonderful kids :boy: :girl:
-- I'm an avid hobbyist: :mountain_bicyclist:, :evergreen_tree:, :camera:, :gun:, :tennis:, :snowboarder:, :swimmer:, :space_invader:, :beer:, :rowboat: 
+- I'm an avid hobbyist. My hobby is hobbies and I tend to hyperfocus on one at a time, while still rotating through ALL THE THINGS. Usually in rotation: mountain biking, snowboarding, kayaking, hiking, vidya, scuba diving, photography, internet marketing, board games, homebrewing
 
 ### Usually Working In 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
 ### Recent Blog Posts
 - :chart_with_upwards_trend: [Automated Stock Alerts with Google Sheets](https://www.shaun-taylor.com/blog/automated-stock-alerts-with-google-sheets.html)
